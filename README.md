@@ -12,10 +12,6 @@ Whether you need tech advice, legal consultation, health guidance, or career men
 
 > Coming soon: Full diagram and technical documentation
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
 ---
 
 ## 🤝 Contributing
@@ -27,6 +23,8 @@ Whether you're a developer, designer, or technical writer — we appreciate your
 
 Follow the project on [GitHub](https://github.com/flakeforge/ekspertor), or reach out on Telegram: [@flakeforge](https://t.me/flakeforge)
 
----
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 > Built with ❤️ for empowering expert knowledge sharing in Uzbekistan and beyond.
